@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background: #333;
+    color: white;
+    padding: 15px;
+    text-align: left;
+}
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+.hero {
+    height: 90vh;
+    background: url("image.png");
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    margin-bottom: 10px;
+   
+}
+
+.hero img {
+    width: 500px;
+    height: 380px;
+    margin-top: 6%;
+    border: 5px solid white;
+    border-radius: 10px;
+}
+.hero h2{
+    color: white;
+    font-size: 40px;
+}
+.details, .about, .interested {
+    background: #f4f4f4;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 8px;
+}
+.cta, .interested {
+    text-align: center;
+    margin: 20px 0;
+}
+.cta button, .interested button {
+    padding: 12px 24px;
+    background: red;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    border-radius: 5px;
+}
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
