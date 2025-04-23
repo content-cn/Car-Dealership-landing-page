@@ -14,6 +14,8 @@ The Car Dealership Landing Page is a responsive web application designed to show
 
 - **HTML**: Structure of the web pages.
 - **CSS**: Styling and layout of the web pages.
+- **Netlify** – For deploying the business card and making it live.  
+- **QR Code** – For providing quick access by scanning with mobile devices.
 
 ## Installation
 
