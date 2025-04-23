@@ -22,3 +22,8 @@ The Car Dealership Landing Page is a responsive web application designed to show
 1. Clone the repository:
    ```bash
    git clone https://github.com/content-cn/Car-Dealership-landing-page.git
+   ```
+   ## Navigate to the project directory:
+   ```bash
+   cd Car-Dealership-landing-page
+   ```
